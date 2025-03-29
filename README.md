@@ -1,6 +1,15 @@
 # go-server-template
 Server template that you can use for your projects
 
+## Tech stack
+- Postgres
+- Go 1.24.1
+- Gin
+- Zap logger
+- Open API 3.0
+- JWT auth
+- Docker
+
 ## Setup
 `.env` file should be located in source dir (`/go-server-template`, not `/src`).
 
